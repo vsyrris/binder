@@ -4,31 +4,31 @@ channels:
   - conda-forge
 
 dependencies: 
-    python-blosc \
-    cytoolz \
-    dask \
-    dask-ml \
-    scikit-image \
-    scikit-learn \
-    matplotlib \
-    holoviews \
-    geoviews \
-    datashader \
-    hvplot \
-    netcdf4 \
-    bokeh \
-    numpy \
-    scipy \
-    xarray \
-    rasterio \
-    nomkl \
-    numpy \
-    pandas \
-    multiprocess \
-    graphviz \
-    ipywidgets \
-    nodejs \
-    ipympl \
-    ipykernel \
-    jupyterlab \
+    python-blosc
+    cytoolz
+    dask
+    dask-ml
+    scikit-image
+    scikit-learn
+    matplotlib
+    holoviews
+    geoviews
+    datashader
+    hvplot
+    netcdf4
+    bokeh
+    numpy
+    scipy
+    xarray
+    rasterio
+    nomkl
+    numpy
+    pandas
+    multiprocess
+    graphviz
+    ipywidgets
+    nodejs
+    ipympl
+    ipykernel
+    jupyterlab
 
